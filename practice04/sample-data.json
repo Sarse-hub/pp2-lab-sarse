@@ -1,0 +1,44 @@
+{
+  "company": "TechCorp",
+  "location": "San Francisco",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "department": "Engineering",
+      "salary": 75000,
+      "skills": ["Python", "AWS", "Docker"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Wilson",
+      "department": "Marketing",
+      "salary": 65000,
+      "skills": ["SEO", "Content Marketing", "Analytics"]
+    },
+    {
+      "id": 3,
+      "name": "Carol Brown",
+      "department": "HR",
+      "salary": 60000,
+      "skills": ["Recruiting", "Employee Relations", "Training"]
+    }
+  ],
+  "departments": {
+    "Engineering": {
+      "head": "Alice Johnson",
+      "budget": 500000,
+      "projects": ["AI Assistant", "Cloud Migration"]
+    },
+    "Marketing": {
+      "head": "Bob Wilson",
+      "budget": 200000,
+      "projects": ["Brand Campaign", "Social Media"]
+    },
+    "HR": {
+      "head": "Carol Brown",
+      "budget": 150000,
+      "projects": ["Talent Acquisition", "Employee Training"]
+    }
+  }
+}

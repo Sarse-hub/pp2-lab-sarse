@@ -1,0 +1,7 @@
+x = 2
+y = x * 3 + 4
+y
+print(y)
+z = -5 + (x * 2)
+z
+# end of demo
